@@ -34,7 +34,7 @@ PYTHONPATH=../:. python testproject.py
 
 Also, the following files can be run separately using the command lines below:
 
-To run indicators.py: PYTHONPATH=../. python indicators.py 
-To run ManualStrategy.py: PYTHONPATH=../. python ManualStrategy.py
-To run experiment1: PYTHONPATH=../. python experiment1.py
-To run experiment2: PYTHONPATH=../. python experiment2.py
+- To run indicators.py: PYTHONPATH=../. python indicators.py 
+- To run ManualStrategy.py: PYTHONPATH=../. python ManualStrategy.py
+- To run experiment1: PYTHONPATH=../. python experiment1.py
+- To run experiment2: PYTHONPATH=../. python experiment2.py
