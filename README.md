@@ -30,7 +30,7 @@ Instructions:
 
 To run code in terminal, navigate to the folder containing the above .py files. All files will be invoked run: 
 
-PYTHONPATH=../:. python testproject.py 
+- PYTHONPATH=../:. python testproject.py 
 
 Also, the following files can be run separately using the command lines below:
 
