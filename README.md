@@ -1,4 +1,4 @@
-# ML4T Project
+# Machine Learning for Trading Project
 
 Author: Caroline Zhang
 
